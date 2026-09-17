@@ -1,0 +1,1 @@
+# esta sección será para aprender el uso de variable 
